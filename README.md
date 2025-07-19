@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi i,m Tushar verma  👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&height=100&lines=Hi%2C+I'm+Sanskar+Kalal+👋;Full+Stack+%26+Mobile+App+Developer;100K%2B+Content+Creator+%7C+AI+Enthusiast;Let%E2%80%99s+build+something+amazing+together!">
+</p>
 
 <!--
 **Exerdon/Exerdon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
