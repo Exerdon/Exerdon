@@ -6,7 +6,7 @@
 I am just a beginner here 
 
 - 🌱 I’m currently learning CSS
-- ⚡ Fun fact: its never to late
+- ⚡ Fun fact: its never too late
 
 
 # 💻 Tech Stack:
