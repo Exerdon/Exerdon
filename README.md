@@ -23,5 +23,5 @@ I am just a beginner here
 ![](https://github-contributor-stats.vercel.app/api?username=Exerdon&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Exerdon&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Exerdon&icon=0&color=24)](https://visitcount.itsvg.in)
 
